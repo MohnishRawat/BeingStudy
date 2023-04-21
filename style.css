@@ -4,25 +4,17 @@
 }
 
 
-#FrontPageNavbar {
-    /* overflow: hidden; */
-    /* background-color: #333; */
-    position: fixed;
-    top: 0;
-    width: 100%;
+.navbar {
+    margin-bottom: 0;
+    /* height: 10%; */
+}
+
+.nav {
 
 
     font-size: 14px;
-    font-family: "Chalkduster", fantasy;
+    font-family: " Copperplate", "Copperplate Gothic Light", fantasy;
     color: #070707;
-    padding-inline: 400px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    height: 48px;
-    background-color: white;
-    cursor: pointer;
-
 }
 
 
@@ -46,4 +38,9 @@
     align-items: center;
     height: 100vh;
     /* background-color: black; */
+}
+
+.all-language-photo {
+    width: 70vh;
+    height: auto;
 }
