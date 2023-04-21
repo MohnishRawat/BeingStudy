@@ -3,7 +3,6 @@
     padding: 0;
 }
 
-
 .navbar {
     margin-bottom: 0;
     /* height: 10%; */
@@ -18,21 +17,13 @@
 }
 
 
-
-
-.FrontIntro {
-    background-image: url("1_v5NRqLcyXIVNaG5KLjKIQA-removebg-preview.png");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
-
 .FrontIntro {
 
 
     color: whitesmoke;
     font-family: "Stencil Std", Stencil Std;
     background-image: linear-gradient(#16252d, rgb(57, 57, 78));
-    padding-top: 100px;
+    padding-top: 80px;
     display: flex;
     flex-direction: column;
     align-items: center;
